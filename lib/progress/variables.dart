@@ -1,0 +1,1 @@
+int warningCounter = 0;
